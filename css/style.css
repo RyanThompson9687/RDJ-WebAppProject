@@ -1,0 +1,96 @@
+@charset "utf-8";
+
+/* Background color for navbar and dropdown menus */
+.navbar-custom, .navbar-custom .dropdown-menu {
+    background-color: #695024;
+}
+/* Text color for navbar and dropdown menus */
+.navbar-custom .navbar-brand, .navbar-custom .navbar-text,
+.navbar-custom .navbar-nav .nav-link,
+.navbar-custom .dropdown-item {
+    color: white;
+}
+/* Background and text colors for current page link and links on hover and focus */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link,
+.navbar-custom .nav-item:focus .nav-link,
+.navbar-custom .dropdown-item:hover, 
+.navbar-custom .dropdown-item:focus {
+    background-color: #0C1E2A;
+    color: white;
+}
+/* Border and text colors for menu icon on small screens */
+.custom-toggler.navbar-toggler {
+    border-color: black;
+    color: black;
+}
+
+/* Full wbesite */
+body {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+    background-color: #0C1E2A;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+/* Style for background image */
+.background {
+    opacity: 0.9;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+/* Home page top center title */
+.title {
+    text-align: center;
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #695024;
+    border-radius: 20px;
+    width: 370px;
+    position: relative;
+    padding-bottom: 2px;
+    padding-right: 2px;
+    padding-left: 2px;
+    margin-bottom: 42px;
+    padding-top: 2px;
+	text-shadow: 1px 1px black;
+}
+
+.row {
+    text-align: center;
+    color: black;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    color: white;
+    background-color: #695024;
+    padding-top: 15px;
+	padding-bottom: 5px;
+}
+
+/* Copyright */
+.copyright {
+    text-align: center;
+    color: white;
+    background-color: #0C1E2A;
+    padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.Cards {
+    margin-left: 125px;
+}
+
+.CustomCard {
+	background-color: #1C2D38;
+	color: white;
+}
