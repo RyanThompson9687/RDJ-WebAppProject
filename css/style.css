@@ -2,7 +2,7 @@
 
 /* Background color for navbar and dropdown menus */
 .navbar-custom, .navbar-custom .dropdown-menu {
-    background-color: #1C2D38;
+    background-color: #161616;
 }
 /* Text color for navbar and dropdown menus */
 .navbar-custom .navbar-brand, .navbar-custom .navbar-text,
@@ -16,8 +16,8 @@
 .navbar-custom .nav-item:focus .nav-link,
 .navbar-custom .dropdown-item:hover, 
 .navbar-custom .dropdown-item:focus {
-    background-color: white;
-    color: black;
+    background-color: #161616;
+    color: red;
 }
 /* Border and text colors for menu icon on small screens */
 .custom-toggler.navbar-toggler {
@@ -31,28 +31,75 @@ body {
     margin-left: auto;
     margin-right: auto;
     margin-top: 0%;
-    background-color: #0C1E2A;
-    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: #FAF9F6;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 }
 
-/* Style for background image */
-.background {
-    opacity: 0.9;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-bottom: 50px;
-    padding-top: 20px;
+.heading{
+	padding: 50px 0px 100px 0px;
+}
+
+.aboutInfo{
+	margin-left:100px;
+		margin-right:100px;
+}
+@media only screen and (min-width: 1200px){
+
+	
+	h1{
+	font-size:72px;
+}
+
+h4{
+	font-size:36px;
+}
+
+h5{
+	font-size:48px;
+}
+
+h7{
+	color:black;
+}
+
+p{
+	font-size:24px;
+}
+}
+
+@media only screen and (max-width: 1199px){
+	h1{
+	font-size:48px;
+}
+
+h4{
+	font-size:24px;
+}
+
+h5{
+	font-size:36px;
+}
+
+h7{
+	color:black;
+}
+
+p{
+	font-size:18px;
+}
+	
+	.aboutImage{
+		visibility: hidden;
+	}
 }
 
 /* Home page top center title */
 .title {
     text-align: center;
-    color: white;
+    color: #6b0012;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    background-color: #1C2D38;
-    border-radius: 20px;
     width: 370px;
     position: relative;
     padding-bottom: 2px;
@@ -60,7 +107,6 @@ body {
     padding-left: 2px;
     margin-bottom: 42px;
     padding-top: 2px;
-	text-shadow: 1px 1px black;
 }
 
 .row {
@@ -72,7 +118,7 @@ body {
 .footer {
     text-align: center;
     color: white;
-    background-color: #1C2D38;
+    background-color: #161616;
     padding-top: 15px;
 	padding-bottom: 5px;
 }
@@ -81,7 +127,7 @@ body {
 .copyright {
     text-align: center;
     color: white;
-    background-color: #0C1E2A;
+    background-color: #161616;
     padding-top: 20px;
 	padding-bottom: 20px;
 }
@@ -91,51 +137,25 @@ body {
 }
 
 .CustomCard {
-	background-color: #1C2D38;
+	background-color: #fcd58c;
 	color: white;
+	
+	
 }
 
-.contact {
-    text-align: center;
-    color: black;
-    display: block;
-	margin-left: auto;
-    margin-right: auto;
-	margin-top: 20px;
-	background-color: white;
-    border-radius: 20px;
-    width: 370px;
-    position: relative;
-    padding-bottom: 2px;
-    padding-right: 2px;
-    padding-left: 2px;
-    margin-bottom: 42px;
-    padding-top: 2px;
+.btnCustom{
+	background-color:#6b0012;
+	color:white;
 }
 
-.blog {
-    text-align: center;
-    color: black;
-    display: block;
-	margin-left: auto;
-    margin-right: auto;
-	margin-top: 20px;
-	background-color: white;
-    border-radius: 20px;
-    width: 370px;
-    position: relative;
-    padding-bottom: 2px;
-    padding-right: 2px;
-    padding-left: 2px;
-    margin-bottom: 42px;
-    padding-top: 2px;
+.btnCustom:hover{
+	background-color:#d60024;
+	color:white
 }
 
-.Blog-headers {
-	text-align: center;
-	color: white;
-}
-
-#subtitle {
-	font-size: 20px;
+.aboutImage{
+	padding-top:100px;
+	background:url("img/sneakspray.png") repeat-x;
+	height:500px;
+	width:500px;
 }
