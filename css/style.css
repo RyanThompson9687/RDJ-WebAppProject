@@ -2,7 +2,7 @@
 
 /* Background color for navbar and dropdown menus */
 .navbar-custom, .navbar-custom .dropdown-menu {
-    background-color: #695024;
+    background-color: #1C2D38;
 }
 /* Text color for navbar and dropdown menus */
 .navbar-custom .navbar-brand, .navbar-custom .navbar-text,
@@ -51,7 +51,7 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    background-color: #695024;
+    background-color: #1C2D38;
     border-radius: 20px;
     width: 370px;
     position: relative;
@@ -72,7 +72,7 @@ body {
 .footer {
     text-align: center;
     color: white;
-    background-color: #695024;
+    background-color: #1C2D38;
     padding-top: 15px;
 	padding-bottom: 5px;
 }
