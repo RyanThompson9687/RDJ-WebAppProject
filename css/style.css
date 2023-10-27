@@ -94,3 +94,21 @@ body {
 	background-color: #1C2D38;
 	color: white;
 }
+
+.contact {
+    text-align: center;
+    color: black;
+    display: block;
+	margin-left: auto;
+    margin-right: auto;
+	margin-top: 20px;
+	background-color: white;
+    border-radius: 20px;
+    width: 370px;
+    position: relative;
+    padding-bottom: 2px;
+    padding-right: 2px;
+    padding-left: 2px;
+    margin-bottom: 42px;
+    padding-top: 2px;
+}
