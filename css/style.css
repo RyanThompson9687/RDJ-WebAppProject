@@ -16,8 +16,8 @@
 .navbar-custom .nav-item:focus .nav-link,
 .navbar-custom .dropdown-item:hover, 
 .navbar-custom .dropdown-item:focus {
-    background-color: #0C1E2A;
-    color: white;
+    background-color: white;
+    color: black;
 }
 /* Border and text colors for menu icon on small screens */
 .custom-toggler.navbar-toggler {
