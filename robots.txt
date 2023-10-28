@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+Disallow: /var/www/html/L12/membership-rvt.html
+
+Sitemap: https://www.sneakspray.com/sitemap.xml
