@@ -139,8 +139,6 @@ p{
 .CustomCard {
 	background-color: #fcd58c;
 	color: white;
-	
-	
 }
 
 .btnCustom{
@@ -158,4 +156,8 @@ p{
 	background:url("img/sneakspray.png") repeat-x;
 	height:500px;
 	width:500px;
+}
+
+.ContactText {
+	text-align: center
 }
