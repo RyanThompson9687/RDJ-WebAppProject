@@ -6,3 +6,11 @@ Version 1.0:
   contact.html; blank page with nav bar
   about.html; blank page with nav bar
   shopping.html; blank page with nav bar
+
+Version 1.1:
+  10/27 - 8:05PM
+  index.html;
+  contact.html; needs CSS update
+  about.html; 
+  shopping.html; blank page with nav bar
+  blog.html; blog page for L19 participation, needs CSS Update if it is staying
