@@ -192,3 +192,36 @@ p{
 .shoeImg {
 	align-self: center;
 }
+
+.Blog-headers {
+	text-align: center;
+}
+
+.blogContainer {
+	background-color: #fcd58c;
+	border-radius: 30px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: fit-content;
+	box-shadow: 2px 5px 7px #6b0012;
+	text-align: left;
+	padding: 20px;
+	padding-bottom: 5px;
+}
+
+.blogCenter {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.blogText {
+	max-width: 1000px;
+}
+
+.blogRef {
+	font-size: 24px
+}
