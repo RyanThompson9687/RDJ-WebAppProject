@@ -23,3 +23,11 @@ Version 1.2:
   shopping.html; blank page with nav bar
   blog.html; blog page for L19 participation, needs CSS Update if it is staying
 
+Version 1.3:
+  10/28 - 6:20PM
+  index.html;
+  contact.html;
+  about.html; 
+  shopping.html; 
+  blog.html; blog page for L19 participation, needs CSS Update if it is staying
+
