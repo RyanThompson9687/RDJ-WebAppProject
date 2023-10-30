@@ -5,4 +5,4 @@ User-agent: *
 Allow: /
 Disallow: /var/www/html/L12/membership-rvt.html
 
-Sitemap: https://www.sneakspray.com/sitemap.xml
+Sitemap: http://www.sneakspray.com/sitemap.xml
