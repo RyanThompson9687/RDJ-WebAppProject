@@ -1,18 +1,29 @@
 Version Changelog:
 
-Version 1.0:
-  10/27 - 3:22PM
-  Placeholder index.html home page; intend on rewriting to encompass all other pages.
-  contact.html; blank page with nav bar
-  about.html; blank page with nav bar
-  shopping.html; blank page with nav bar
 
-Version 1.1:
-  10/27 - 8:05PM
+
+Version 1.4.1;
+  10/30 - 4:00PM
   index.html;
-  contact.html; needs CSS update
+  contact.html;
   about.html; 
-  shopping.html; blank page with nav bar
+  shopping.html; 
+  blog.html; Testing blogs and structured data
+
+Version 1.4:
+  10/28 - 6:20PM
+  index.html;
+  contact.html;
+  about.html; 
+  shopping.html; 
+  blog.html; update with 2 more blogs for L19 participation
+
+Version 1.3:
+  10/28 - 6:20PM
+  index.html;
+  contact.html;
+  about.html; 
+  shopping.html; 
   blog.html; blog page for L19 participation, needs CSS Update if it is staying
 
 Version 1.2:
@@ -23,19 +34,17 @@ Version 1.2:
   shopping.html; blank page with nav bar
   blog.html; blog page for L19 participation, needs CSS Update if it is staying
 
-Version 1.3:
-  10/28 - 6:20PM
+Version 1.1:
+  10/27 - 8:05PM
   index.html;
-  contact.html;
+  contact.html; needs CSS update
   about.html; 
-  shopping.html; 
+  shopping.html; blank page with nav bar
   blog.html; blog page for L19 participation, needs CSS Update if it is staying
 
-Version 1.4:
-  10/28 - 6:20PM
-  index.html;
-  contact.html;
-  about.html; 
-  shopping.html; 
-  blog.html; update with 2 more blogs for L19 participation
-
+Version 1.0:
+  10/27 - 3:22PM
+  Placeholder index.html home page; intend on rewriting to encompass all other pages.
+  contact.html; blank page with nav bar
+  about.html; blank page with nav bar
+  shopping.html; blank page with nav bar
