@@ -1,5 +1,9 @@
 Version Changelog:
 
+Version 1.5;
+  11/20 - 4:40PM
+  Updated title on all pages for SEO
+
 Version 1.4.2;
   10/30 - 4:00PM
   index.html;
