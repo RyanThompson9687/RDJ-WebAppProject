@@ -1,5 +1,9 @@
 Version Changelog:
 
+Version 1.6;
+  11/27 - 4:00PM
+  Responsiveness update for mobile and tablet
+
 Version 1.5;
   11/20 - 4:40PM
   Updated title on all pages for SEO
