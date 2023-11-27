@@ -1,7 +1,11 @@
 Version Changelog:
 
+Version 1.6.1;
+  11/27 - 4:20PM
+  SEO Update
+
 Version 1.6;
-  11/27 - 4:00PM
+  11/27 - 4:20PM
   Responsiveness update for mobile and tablet
 
 Version 1.5;
