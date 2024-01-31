@@ -1,5 +1,5 @@
 Project Description:
-Class project for Florida Polytechnic University course: Web Application Development (COP 3834) during the Fall 2023 semester
+Class project for Florida Polytechnic University course: Web Application Development (COP 3834) during the Fall 2023 semester.
 
 This project focused on full-stack development of a basic website from scratch via LAMP (Linux, Apache, MySQL, PHP) stack through Amazon Web Services, with the main focus of the project being to have the most optimal Search Engine Optimization and rankings. 
 
