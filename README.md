@@ -14,6 +14,6 @@ The website is no longer live, but all files that existed on the webserver for t
 
 Project Credits: 
 Group of Computer Science Students at Florida Polytechnic University;
-Ryan Thompson
-Darren Chaney
+Ryan Thompson,
+Darren Chaney,
 Jenna Castlewitz
