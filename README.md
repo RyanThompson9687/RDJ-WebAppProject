@@ -10,7 +10,7 @@ The website was written primarily in HTML and CSS, built on a foundation of Java
 The main IDE tools used included Adobe Dreamweaver and VS Code. 
 All changes to the source code were made through Git, being saved and recorded on this GitHub repository. 
 
-The website is no longer live, but all files that existed on the webserver for the duration of the class are visible here in this repository, and grouped together for ease of downloading in the 'SourceCode.zip' folder. Reccomend opening HTML files in a browser, starting with index.html, to see full functionality of website. 
+The website is no longer live, but all files that existed on the webserver for the duration of the class are visible here in this repository, and grouped together for ease of downloading in the 'SourceCode.zip' folder. Recommend opening HTML files in a browser, starting with index.html, to see full functionality of website. 
 
 Project Credits: 
 Group of Computer Science Students at Florida Polytechnic University;
